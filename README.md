@@ -14,12 +14,12 @@ A. Churiulina</sup>
 ## The repository content:
 1. The ***Python*** project: **Determination of a promising tariff for a telecom company** ([Mobile tariffs.ipynb][project_1]). Customers of Megaline, a federal mobile operator, are offered two tariff plans: Smart and Ultra. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. A preliminary analysis of tariffs was made for a small sample of customers - data from 500 Megaline users: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018. The behavior of customers was analyzed and a conclusion was made - which tariff is better.
     * What has been done:
-        + Opened the data file and study the general information
+        + Opened the data files and studied the general information
         + Casted the data to the required types
-        + Found and correct data errors, where it is necessary
+        + Found and corrected data errors, where it was necessary
         + Calculated for each user: the number of calls, sent messages, the volume of consumed Internet traffic by months
         + Calculated monthly revenue from each user
-        + Describe the behavior of the operator's customers based on the sample
+        + Described the behavior of the operator's customers based on the sample
         + Calculated the mean, variance, and standard deviation.
         + Ploted histograms
         + Described the probability distributions
