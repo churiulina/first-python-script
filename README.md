@@ -2,7 +2,7 @@
 
 ### Author:
 <p align="justify">
-A. Churiulina<sup>1</sup>
+A. Churiulina</sup>
 
 <em><strong>Correspondence to: A. Churiulina (agchurylina@gmail.com)</strong></em>
 
@@ -14,11 +14,11 @@ A. Churiulina<sup>1</sup>
 </p>
 
 ## The repository content:
-1. Determination of a promising tariff for a telecom company<sub>v3.5</sub>
+1. Determination of a promising tariff for a telecom company</sub>
     * [Files used in this project you can download here][files]
-2. [gggggg][2]
+2. 
  
  
 [yandex]: https://practicum.yandex.ru/
 [files]: https://drive.google.com/drive/folders/1j_RJnurCjvznmK8t_xgIEYPvsBU93pHZ?usp=sharing
-[2]: https://translate.google.com/
+
