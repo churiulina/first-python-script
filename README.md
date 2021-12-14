@@ -8,15 +8,14 @@ A. Churiulina</sup>
 
 ## The repository description:
 <p align="justify">
-  The repository contains the first projects created during training on the 
-  * [Yandex Practicum][yandex]
-  "Data Analytics" from October 2021 to the present time.
+  The repository contains the first projects created during training on the [Yandex Practicum][yandex]
+  "Data Analytics" from October 2021 to the present.
 </p>
 
 ## The repository content:
 1. Determination of a promising tariff for a telecom company</sub>
     * [Files used in this project you can download here][files]
-2. 
+2. [jjjjjj][yandex] 
  
  
 [yandex]: https://practicum.yandex.ru/
