@@ -1,4 +1,4 @@
-# first-python-scripts
+# python-scripts
 
 ### Author:
 <p align="justify">
