@@ -12,8 +12,9 @@ A. Churiulina</sup>
 </p>
 
 ## The repository content:
-1. The new ***Python*** project: **Determination of a promising tariff for a telecom company**</sub>. Customers of Megaline, a federal mobile operator, are offered two tariff plans: Smart and Ultra. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. A preliminary analysis of tariffs was made for a small sample of customers - data from 500 Megaline users: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018. The behavior of customers was analyzed and a conclusion was made - which tariff is better.
-    * [Files used in this project you can download here][files_1]
+1. The ***Python*** project: **Determination of a promising tariff for a telecom company**</sub>. 
+    * Customers of Megaline, a federal mobile operator, are offered two tariff plans: Smart and Ultra. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. A preliminary analysis of tariffs was made for a small sample of customers - data from 500 Megaline users: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018. The behavior of customers was analyzed and a conclusion was made - which tariff is better.
+        + [Files used in this project you can download here][files_1]
 2. The new ***Python*** project, with statistical and visualization modules:
     * [CESR_project.py][cesr] and [stat_module][main] - the main programms for verification, statistical analysis and visualization of COSMO-CLM results:  
         + [cosmo_data.py][cosmo] - personal module for downloading and preparing COSMO data
