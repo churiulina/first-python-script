@@ -32,5 +32,5 @@ A. Churiulina</sup>
          
          
 [yandex]: https://practicum.yandex.ru/
-[files_1]: https://drive.google.com/drive/folders/1j_RJnurCjvznmK8t_xgIEYPvsBU93pHZ?usp=sharing
-[project_1]: https://github.com/churiulina/first-python-script/blob/main/Mobile%20tariffs.ipynb
+[files_1]: https://github.com/churiulina/first-python-script/tree/main/files_mobile_tariffs
+[project_1]: https://github.com/churiulina/first-python-script/blob/main/Mobile_tariffs.ipynb
