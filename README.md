@@ -8,7 +8,7 @@ A. Churiulina</sup>
 
 ## The repository description:
 <p align="justify">
-  The repository contains Python projects created during training on the course "Data Analytics" by the <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> from October 2021 to the present.    
+  The repository contains Python projects created during training on the course "Data Analyst" by the <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> from October 2021 to the present.    
 </p>
 
 ## The repository content:
