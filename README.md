@@ -23,7 +23,7 @@ A. Churiulina</sup>
         + Calculated the mean, variance, and standard deviation.
         + Ploted histograms.
         + Described the probability distributions.
-        + Tested Null and Alternative Hypotheses.
+        + Tested null and alternative hypotheses.
         + Written a general conclusion.
      * [Files used in this project you can download here][files_1]
          
