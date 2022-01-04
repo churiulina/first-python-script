@@ -51,5 +51,5 @@ A. Churiulina</sup>
 [yandex]: https://practicum.yandex.ru/
 [files_1]: https://github.com/churiulina/first-python-script/tree/main/files_mobile_tariffs
 [project_1]: https://github.com/churiulina/first-python-script/blob/main/Mobile_tariffs.ipynb
-[file_2]: https://github.com/churiulina/first-python-script/blob/main/games.csv   
+[file_2]: https://github.com/churiulina/first-python-script/tree/main/computer_games_file  
 [project_2]: https://github.com/churiulina/first-python-script/blob/main/Computer_games.ipynb
