@@ -45,8 +45,7 @@ A. Churiulina</sup>
      * [File used in this project you can download here][file_2]
          
       
-         
-         
+                  
          
 [yandex]: https://practicum.yandex.ru/
 [files_1]: https://github.com/churiulina/first-python-script/tree/main/files_mobile_tariffs
